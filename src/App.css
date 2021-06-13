@@ -1,5 +1,14 @@
 .App {
   text-align: center;
+  font-family:'Nunito',sans-serif;
+  background: linear-gradient(#F1751F, #F9D15B);
+  height: 200px;
+}
+
+.bottom-menu{
+  position: fixed;
+    left: 0;
+    bottom: 0;
 }
 
 .App-logo {
